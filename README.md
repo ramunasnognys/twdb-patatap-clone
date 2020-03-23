@@ -2,7 +2,7 @@
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
-![](splashscreen.png)
+![](screenshot.png)
 
 ## Libraries
 [Paper.js](http://paperjs.org/) <br>
